@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Det her er sq langt bedre end Arto ;)
+d her r sq langt bedre end Arto ;)
 
 <!--
 **sulfo/sulfo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
